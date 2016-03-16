@@ -37,7 +37,7 @@ namespace AppliedLearningAssessment
 
 
             float[] myValues1 = { 1.234f, 2.345f, 3.456f, 4.567f, 5.678f };
-            Console.WriteLine(myValues1[myValues1.Length - 4]);
+            Console.WriteLine(myValues1[1]);
 
 
 
